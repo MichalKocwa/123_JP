@@ -1,6 +1,6 @@
 # Hello again again
 # Hello again
-# konflikt pc
+# zmiana konflikt
 # konflikt 22222
 
 # ehhhh
